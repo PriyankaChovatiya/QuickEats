@@ -17,6 +17,14 @@ import ReactDOM from "react-dom";
  */
 
 
+const AppLayout = () =>{
+    return (
+        <div className="app">
+
+        </div>
+    )
+
+    }
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
