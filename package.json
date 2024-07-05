@@ -2,7 +2,7 @@
   "name": "quickeats",
   "version": "1.0.0",
   "description": "This is the Food order delivery website ",
-  "main": "App.js",
+ 
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -12,11 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/PriyankaChovatiya/QuickEats.git"
   },
-  "keywords": [
-    "food",
-    "order",
-    "deleivery"
-  ],
+  "keywords": [],
   "author": "Priyanka M",
   "license": "ISC",
   "bugs": {
