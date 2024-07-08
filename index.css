@@ -19,3 +19,30 @@
     padding: 10px;
     margin: 10px;
 }
+
+.search-bar {
+    padding: 10px;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 50px 0px 90px;
+    
+}
+.res-card:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+
+.res-card{
+    width: 200px;
+    height: 400px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #f0f0f0;
+}
+
+.res-img{
+    width: 100%;
+}
