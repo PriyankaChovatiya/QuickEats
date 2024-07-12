@@ -14,7 +14,7 @@ const [listOfRestaurant, setListOfRestaurant] = useState(resList);
             <button className="filter-btn"
             onClick={() => 
               {
-                const filteredlist = listOfRestaurant.filter((res) => res.data.avgRating >4);
+                const filteredlist = listOfRestaurant.filter((res) => res.data.avgRating >= 4);
 
              setListOfRestaurant(filteredlist);
             }} > Top Rated Restaurants </button>
