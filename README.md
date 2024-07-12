@@ -29,3 +29,24 @@
 
  export const Component = "";
  import { Component } from './Components';
+
+
+...
+# Hooks 
+
+# what is Hooks ?
+ - Hooks allow function components to have access to state and other React features.
+ - Also it is normal JS function which given by react.
+ - Normal JS utility function
+
+ -- Hooks
+
+ 1. useState() : 
+    - Used to superpowerful react variable. 
+    - import used as named import.
+    - import { useState } from "react";
+
+ 2. useEffect() :
+
+
+
