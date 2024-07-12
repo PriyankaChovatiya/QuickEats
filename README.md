@@ -38,6 +38,8 @@
  - Hooks allow function components to have access to state and other React features.
  - Also it is normal JS function which given by react.
  - Normal JS utility function
+ - whenever State variable updates react will rerender the Component.
+ 
 
  -- Hooks
 
